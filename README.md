@@ -8,8 +8,8 @@ Caso use o Linux: dentro do diretório do projeto deve ser dado permissão para 
 Assim não precisa configurar variável de ambiente para o "geckodriver"
 
 #Comando para execução do projeto - Maven
-mvn install - para instalar o projeto e as dependências
-mvn test - para rodar o teste
+- mvn install - para instalar o projeto e as dependências
+- mvn test - para rodar o teste
 
 
 
